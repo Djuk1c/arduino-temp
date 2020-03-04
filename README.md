@@ -1,0 +1,1 @@
+Arduino temp ludilo BAZDSMEG
