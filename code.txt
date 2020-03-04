@@ -1,0 +1,29 @@
+#include <dht.h>
+
+dht DHT;
+int led = 13;
+
+void setup() 
+{
+  Serial.begin(9600);
+  pinMode(led, OUTPUT);
+  delay(1000);
+}
+
+void loop() 
+{
+  DHT.read11(A0);
+  String data = String(DHT.temperature) + " " + String(DHT.humidity);
+  Serial.println(data);
+
+  if (Serial.available() > 0)
+  {
+    char input = Serial.read();
+    if(input == '1')
+      digitalWrite(led, 1);
+    else if(input == '0')
+      digitalWrite(led, 0);
+  }
+
+  delay(1000);
+}

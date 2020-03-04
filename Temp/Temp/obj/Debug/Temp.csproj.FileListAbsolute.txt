@@ -1,0 +1,9 @@
+C:\!Projects\!Arduino\Temp\Temp\Temp\bin\Debug\Temp.exe.config
+C:\!Projects\!Arduino\Temp\Temp\Temp\bin\Debug\Temp.exe
+C:\!Projects\!Arduino\Temp\Temp\Temp\bin\Debug\Temp.pdb
+C:\!Projects\!Arduino\Temp\Temp\Temp\obj\Debug\Temp.csprojAssemblyReference.cache
+C:\!Projects\!Arduino\Temp\Temp\Temp\obj\Debug\Temp.Form1.resources
+C:\!Projects\!Arduino\Temp\Temp\Temp\obj\Debug\Temp.Properties.Resources.resources
+C:\!Projects\!Arduino\Temp\Temp\Temp\obj\Debug\Temp.csproj.GenerateResource.cache
+C:\!Projects\!Arduino\Temp\Temp\Temp\obj\Debug\Temp.exe
+C:\!Projects\!Arduino\Temp\Temp\Temp\obj\Debug\Temp.pdb
