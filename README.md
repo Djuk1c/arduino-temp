@@ -1,1 +1,1 @@
-Arduino temp ludilo BAZDSMEG
+C# Program working with Arduino Serial that mesures the temperature.
